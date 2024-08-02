@@ -1,0 +1,3 @@
+jwt_secret: "secret"
+port: 8000
+rate_limit_rps: 5
